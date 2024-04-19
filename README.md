@@ -4,3 +4,10 @@
 and a 16x2 LCD screen to display the score. It has joystick controls for intuitive snake movement and
 dynamically generated apples for the snake to consume, enhancing gameplay experience. Utilized data structures like linkedlist
 to represent the snake’s movements, contributing to efficient game logic and performance.</h4>
+
+# Preview
+
+
+
+https://github.com/Dhruvin151104/Snake-Game/assets/142037867/1cbb2bbd-f2d1-438b-9b5f-6cb0912f84c3
+
